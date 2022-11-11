@@ -37,4 +37,3 @@ var c []float64
   }
   return c
 }
->>>>>>> lasagna-master
